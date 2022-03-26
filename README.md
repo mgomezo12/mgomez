@@ -7,7 +7,7 @@ I started to upload my codes not so long ago but I have around 5 years of experi
 
 I believe open source is a key to development. Inclusion is essential!
 
-🔭 I’m currently working on machine learning applications to forecast groundwater levels. 
-🌱 I’m currently learning FloPy, Tensorflow and advance geopandas.  
-😄 Let me help you in case you need collaboration.
-📫 Send me a message here if you have any questions or to mgomezo1212@gmail.com!
+-🔭 I’m currently working on machine learning applications to forecast groundwater levels. 
+-🌱 I’m currently learning FloPy, Tensorflow and advance geopandas.  
+-😄 Let me help you in case you need collaboration.
+-📫 Send me a message here if you have any questions or to mgomezo1212@gmail.com!
